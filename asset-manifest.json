@@ -14,7 +14,7 @@
     "main.bd68aeea.js.map": "/portfolio/static/js/main.bd68aeea.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ee8fcfc.css",
-    "static/js/main.bd68aeea.js"
+    "./static/css/main.2ee8fcfc.css",
+    "./static/js/main.bd68aeea.js"
   ]
 }
